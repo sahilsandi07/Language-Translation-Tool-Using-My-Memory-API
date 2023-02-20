@@ -9,7 +9,7 @@
 - User can copy the translated text to the clipboard
 - User can listen to the translated text using text-to-speech
 
-#Setup
+# Setup
 - Clone Repository on your local Machine
 - Open index.html file
 
